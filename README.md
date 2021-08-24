@@ -1,7 +1,7 @@
 # pcr-go
 
 This is a Go implementation of the private containment retrieval (PCR) protocol
-proposed in the paper "Using Amnesia to detect credential database breaches". Currently, 
+proposed in the paper "[_Using Amnesia to detect credential database breaches_](https://www.usenix.org/system/files/sec21-wang-ke-coby.pdf)" (USENIX Security '21). Currently, 
 this implementation is for purpose of performance evaluation only.
 
 ### Performance Evaluation
