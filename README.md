@@ -29,3 +29,16 @@ Parameters:
 * -monitorInput="Simba": the monitor/responder/sender's input element. (Default: "Simba")
 
 In _performance.go_, the target's input set is filled with "Simba" and some other randomly generated strings starting with "Simba" (e.g., "Simba1234") to reach the specified set size. So a containment relation holds between the target's input set and the string "Simba", as the monitor's input, while the relation does not hold for any other strings not starting with "Simba".
+
+### Citation
+
+```latex
+@inproceedings {wang2021:amnesia,
+title = {Using Amnesia to detect credential database breaches},
+author = {Wang, Ke Coby and Reiter, Michael K.},
+booktitle = {30\textsuperscript{th} {USENIX} Security Symposium},
+publisher = {{USENIX} Association},
+month = {Aug},
+year = {2021}
+}
+```
